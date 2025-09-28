@@ -14,3 +14,9 @@ For information about the specific tracks and their content, please refer to the
 
 - [Track 1: Database Design and Management](./track1/README.md)
 - [Track 2: PL/SQL](./track2/README.md)
+
+## Notice:
+
+This repository probably won't make much sense on its own. It is intended to simply store my tutorial answers for the module.
+
+I don't include any of the lecture/tutorial materials as they're stored on USW's Blackboard.
