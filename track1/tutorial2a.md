@@ -26,6 +26,18 @@ together with a (very) simplified set of requirements.
 
 ### Answer
 
+#### Diagram
+
+![Class Diagram for Estate Agency](./assets/2a1.drawio.png)
+
+#### Assumptions
+
+- Branches can have multiple managers but each manager can only be responsible for one branch at a time.
+- Employees are only employed by a single branch.
+- Properties are not always assigned to a staff member (i.e. new listings).
+- Sellers can sell multiple properties but each property is only sold by one seller. This assumes that joint
+  ownership is not considered.
+  Buyers can have many requirements but do not need to have any requirements (i.e. browsing).
 
 
 ## Task 2
