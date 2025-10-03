@@ -2,7 +2,7 @@
 
 This track explores the following areas and is taught every Friday:
 
-## Contents
+## Course Contents
 
 ### Data analytics
 
@@ -23,7 +23,7 @@ Assessment for this track includes:
 - CW2: PLSQL Programming (30%)
   - TLDR: Write PL/SQL code to solve a given problem.
 
-## Running Oracle Locally
+## Running Oracle Locally (Practical Work)
 
 USW recommend using Oracle's Live SQL platform for hands-on practice, or their own instance of an Oracle database. I didn't want to do this, so I set up a local Oracle database using a free Docker image.
 
