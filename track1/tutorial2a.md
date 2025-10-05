@@ -62,4 +62,4 @@ need to be recorded in order to invoice them for fees owed.
 
 ### Answer
 
-
+![Class Diagram for University](./assets/2a2.drawio.png)
