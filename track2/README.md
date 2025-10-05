@@ -100,3 +100,11 @@ To stop the container, use the following command:
 ```bash
 docker stop oracledb
 ```
+
+### Restarting the container
+
+If you wish to restart the container, use:
+
+```bash
+docker restart oracledb
+```
