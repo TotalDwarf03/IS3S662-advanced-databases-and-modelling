@@ -39,3 +39,6 @@ the responsibility of only one lecturer.
 ### Answer
 
 ![Class Diagram for University](./assets/2b.drawio.png)
+
+^ This diagram is trash. 
+  Note: Do not make class diagrams late on a Sunday night. It is not good for you.
