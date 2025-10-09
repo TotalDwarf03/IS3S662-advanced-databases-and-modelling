@@ -54,6 +54,3 @@ coursework practice.
 ### Answer
 
 ![Class Diagram for University - Tutorial 3](./assets/3.drawio.png)
-
-^ This diagram was made fresh instead of building on the last one.
-  The previous one was bad and had mistakes so I just started again.
